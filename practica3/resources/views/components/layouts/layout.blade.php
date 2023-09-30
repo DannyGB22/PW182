@@ -8,7 +8,9 @@
 </head>
 <body>
 
- {{ $slot }}   
+    <x-layouts.Navbar/>
 
+{{ $slot }} 
+   
 </body>
 </html>

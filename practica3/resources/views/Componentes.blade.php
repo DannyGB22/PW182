@@ -2,9 +2,9 @@
 
 
 
-{{-- <x-layouts> --}}
+<x-layouts.layout>
 
-@component('components.layouts')
+{{-- @component('components.layouts.layout') --}}
 
 <x-slot name="title">
     Componentes
@@ -12,8 +12,11 @@
 
 <h1>Prueba con Componentes</h1>
 
+
+<x-layouts.table/>
+
   
-@endcomponent
-{{-- </x-layouts> --}}
+{{-- @endcomponent --}}
+</x-layouts.layout>
 
 
