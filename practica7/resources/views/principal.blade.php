@@ -10,7 +10,7 @@
 
 <div class="container mt-4 col-md-6">
     <h1 class=" text-center text-dark fw-bold fs-3">Antonio Monegal, Premio Nacional de Ensayo 2023</h1>
-<div class="card fs-6 text-center ">
+<div class="card fs-6 text-center">
 
     <img src="{{ asset('imagenes/img.jpg') }}">
     <div class="card-body">
